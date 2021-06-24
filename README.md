@@ -2,6 +2,7 @@
 An object detector which uses the YOLOv3 architecture which can identify upto 80 classes.
 
 
+Download the YOLOv3 weights : https://pjreddie.com/media/files/yolov3.weights  and place it in yolo-coco folder
 
 ![OBJECT DETECTION(2)](https://user-images.githubusercontent.com/59553356/123244358-7afcbf00-d501-11eb-9c68-4bfb173316d1.jpg)
 
